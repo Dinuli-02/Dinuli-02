@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm DInuli Rajapaksha
 
-<!--
-**Dinuli-02/Dinuli-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🎒 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently pursuing my undergraduate studies at IIT Sri Lanka
+- 🌱  Enthusiastic about developing secure, scalable, and responsive web applications
+- 👯 Proficient in Java, React.js, Next.js, Python, and MySQL
+- 🤔 Well-grounded in Object-Oriented Programming (OOP) principles
+- 💬  Committed to creating clean, intuitive UI/UX designs with reusable components
+- 📫 Continuously advancing my expertise in full-stack web development
+
+## 💻 Tech Stack
+
+### Languages & Frameworks
+
+JavaScript | TypeScript | React | Pyhon
+
+### Databases & Backend
+
+My Sql | MongoDb | Node.js
+
+
