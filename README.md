@@ -14,7 +14,7 @@
 
 ### Languages & Frameworks
 
-JavaScript | TypeScript | React | Pyhon
+JavaScript | TypeScript | React | Python
 
 ### Databases & Backend
 
